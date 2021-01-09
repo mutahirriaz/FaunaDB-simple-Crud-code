@@ -1,7 +1,6 @@
 {
   "name": "fauna",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,15 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "faunadb": "^4.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mutahirriaz/FaunaDB-simple-Crud-code.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mutahirriaz/FaunaDB-simple-Crud-code/issues"
+  },
+  "homepage": "https://github.com/mutahirriaz/FaunaDB-simple-Crud-code#readme",
+  "description": ""
 }
